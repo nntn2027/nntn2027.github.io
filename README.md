@@ -53,4 +53,4 @@ The site lives in `docs/`, which GitHub Pages can serve directly:
 2. Go to **Settings → Pages → Build and deployment**.
 3. Set **Source: Deploy from a branch**, **Branch: `main`**, **Folder: `/docs`**, and save.
 
-The site is published at <https://yantaow.github.io/nntn2027/> and updates on every push to `main`.
+The site is published at <https://nntn2027.github.io/> and updates on every push to `main`.
